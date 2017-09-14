@@ -20,4 +20,4 @@ alert(s);
 ```
   Unfortunately I was unable to offer any assistance to my classmates. I struggled quite a bit with the homework this week, and felt unqualified to help others.
 
-![Image of my editor](image of my editor.jpg)
+![Image of my editor](Image of my editor.jpg)
