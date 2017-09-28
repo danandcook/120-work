@@ -17,4 +17,4 @@ I really enjoyed learning how to draw shapes and set colors only using code. I t
 
 This is what my final sketch looked like.
 
-![This is my final hw-3 sketch](images/hw-3_image.jpeg)
+![This is my final hw-3 sketch](images/hw-3_image.jpg)
