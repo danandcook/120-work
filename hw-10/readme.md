@@ -3,6 +3,7 @@ Daniel Cook, 51
 [Live Sketch Link](https://danandcook.github.io/120-work/hw-10/)
 
 #HW-10
+
 This week I learned how to create my own custom functions and imbed them within other functions. I also learned to build arrays within custom functions.
 
 This week was important to me because I never knew that I could just create my own functions. I always thought they had to be the set functions that existed within the p5 library. But now I know I can make any function I want.
