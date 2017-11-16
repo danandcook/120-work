@@ -2,7 +2,7 @@ Daniel Cook, 51
 
 [Live Sketch Link](https://danandcook.github.io/120-work/hw-10/)
 
-#HW-10
+# HW 10
 
 This week I learned how to create my own custom functions and imbed them within other functions. I also learned to build arrays within custom functions.
 
